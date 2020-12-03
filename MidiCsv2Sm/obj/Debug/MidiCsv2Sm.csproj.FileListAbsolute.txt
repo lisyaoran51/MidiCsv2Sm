@@ -1,0 +1,7 @@
+D:\蔡佳昱\程式\MidiCsv2Sm\MidiCsv2Sm\bin\Debug\MidiCsv2Sm.exe.config
+D:\蔡佳昱\程式\MidiCsv2Sm\MidiCsv2Sm\bin\Debug\MidiCsv2Sm.exe
+D:\蔡佳昱\程式\MidiCsv2Sm\MidiCsv2Sm\bin\Debug\MidiCsv2Sm.pdb
+D:\蔡佳昱\程式\MidiCsv2Sm\MidiCsv2Sm\obj\Debug\MidiCsv2Sm.csprojAssemblyReference.cache
+D:\蔡佳昱\程式\MidiCsv2Sm\MidiCsv2Sm\obj\Debug\MidiCsv2Sm.csproj.CoreCompileInputs.cache
+D:\蔡佳昱\程式\MidiCsv2Sm\MidiCsv2Sm\obj\Debug\MidiCsv2Sm.exe
+D:\蔡佳昱\程式\MidiCsv2Sm\MidiCsv2Sm\obj\Debug\MidiCsv2Sm.pdb
