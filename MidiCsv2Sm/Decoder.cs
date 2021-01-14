@@ -260,8 +260,8 @@ namespace MidiCsv2Sm
                            noteEvent.StartTime.ToString() + "," +
                            noteEvent.Length.ToString() + "," +
                            noteEvent.Value.ToString() + "," +
-                           "" + "," +
                            noteEvent.SectionNumber.ToString() + "," +
+                           "" + "," +
                            "0";
 
                 }
@@ -269,12 +269,12 @@ namespace MidiCsv2Sm
                 {
                     SectionEvent sectionEvent = channelEvent as SectionEvent;
 
-                    line = "-4" + "," +
+                    line = "\n-4" + "," +
                            sectionEvent.StartTime.ToString() + "," +
                            sectionEvent.Length.ToString() + "," +
                            "-1" + "," +
-                           "0" + "," +
                            sectionEvent.SectionNumber.ToString() + "," +
+                           "0" + "," +
                            "0";
                 }
                 else if (channelEvent is SustainEvent)
@@ -285,8 +285,8 @@ namespace MidiCsv2Sm
                            sustainEvent.StartTime.ToString() + "," +
                            sustainEvent.Length.ToString() + "," +
                            "-1" + "," +
-                           "5" + "," +
                            sustainEvent.SectionNumber.ToString() + "," +
+                           "5" + "," +
                            "0";
                 }
 
